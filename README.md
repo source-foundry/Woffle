@@ -4,7 +4,7 @@
 
 Woffle is a GUI application that supports woff and woff2 web font compilation on OS X.  Drag and drop your ttf or otf font file on the GUI window and Woffle does the rest!
 
-Woffle is built with the open source [sfnt2woff-zopfli](https://github.com/bramstein/sfnt2woff-zopfli) and [woff2_compress](https://github.com/google/woff2) font compilers and implements the same web font build approach that we use in [Hack](https://github.com/source-foundry/Hack) in a tidy little GUI package.
+Woffle is built with the open source [sfnt2woff-zopfli](https://github.com/bramstein/sfnt2woff-zopfli) and [woff2_compress](https://github.com/google/woff2) font compilers and implements the same web font build approach that we use in [Hack](https://github.com/source-foundry/Hack), all in a tidy little GUI package.
 
 ![](https://github.com/source-foundry/Woffle/raw/master/img/woffle.gif)
 
