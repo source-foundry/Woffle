@@ -34,7 +34,7 @@ Click Launchpad and you will find Woffle on your desktop.
 
 ## Usage
 
-Drag and drop one or more ttf or otf font files onto the Woffle GUI window after you open it.  The compiled woff and woff2 files are located in the directory where your original fonts were located.
+Drag and drop one or more ttf or otf font files onto the Woffle GUI window after you open it.  The compiled woff and woff2 files are located in the directory where your original fonts are located.  The original font files are not altered in any fashion during this process.
 
 ## License
 
