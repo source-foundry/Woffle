@@ -1,4 +1,4 @@
-![](//github.com/source-foundry/Woffle/raw/master/img/logo-head-crunch.png)
+![](https://github.com/source-foundry/Woffle/raw/master/img/logo-head-crunch.png)
 
 ## About
 
@@ -6,7 +6,7 @@ Woffle is a GUI application that supports woff and woff2 web font compilation on
 
 Woffle is built with the open source [sfnt2woff-zopfli](https://github.com/bramstein/sfnt2woff-zopfli) and [woff2_compress](https://github.com/google/woff2) font compilers and implements the same web font build approach that we use in [Hack](https://github.com/source-foundry/Hack) in a tidy little GUI package.
 
-![](//github.com/source-foundry/Woffle/raw/master/img/woffle.gif)
+![](https://github.com/source-foundry/Woffle/raw/master/img/woffle.gif)
 
 ## Installation
 
