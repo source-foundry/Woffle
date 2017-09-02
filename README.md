@@ -12,13 +12,13 @@ Woffle is built with the open source [sfnt2woff-zopfli](https://github.com/brams
 
 Select either of the following approaches to install Woffle on your OS X system.
 
-#### Download and Use the Installer (.dmg)
+### Download and Use the Installer (.dmg)
 
 Download the installer for [the latest release](https://github.com/source-foundry/Woffle/releases/latest).  Double click the installer file and then drag the Woffle icon to the Applications directory when prompted to do so.
 
 Click Launchpad and you will find Woffle on your desktop.
 
-#### Clone Repository with git and Install
+### Clone Repository with git and Install
 
 Use the following commands to pull the Woffle repository to your system and open the repository in your Finder:
 
