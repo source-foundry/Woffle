@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="font">
+        <file alias="LuckiestGuy.ttf">LuckiestGuy-Regular.ttf</file>
+    </qresource>
+</RCC>
