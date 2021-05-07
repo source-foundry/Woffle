@@ -106,7 +106,8 @@ dist-push:
 # ---------------------
 
 # directly execute the application without a PyInstaller build
-run: build-image-resource build-font-resource
+# run: build-image-resource build-font-resource
+run:
 	python src/run.py
 
 
